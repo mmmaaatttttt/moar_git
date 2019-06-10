@@ -1,4 +1,7 @@
 no more bugs here!
 
 also, now we have styled components!
+
+
 please use them to style your components.
+srsly, i fixed the last one.
